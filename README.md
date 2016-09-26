@@ -39,4 +39,4 @@ LICENSE		main.go
 $ appcfg.py -A my-echoserver -V v1 update .
 ```
 
-4. Visit `https://my-echoserver.appspot.com`
+4 Visit `https://my-echoserver.appspot.com`
