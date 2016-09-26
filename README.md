@@ -2,11 +2,11 @@
 It's an echo Server. You (and I) can test your simple HTTP client.
 
 ```
-$ curl -v -X GET 'http://gae-echoservier.appspot.com/myapi'
+$ curl -v -X GET 'http://gae-echoserver.appspot.com/myapi'
 
 {"header":{
     "Accept":"*/*",
-    "Host":"gae-echoservier.appspot.com",
+    "Host":"gae-echoserver.appspot.com",
     "User-Agent":"curl/7.49.1",
     "X-Appengine-City":"minato",
     "X-Appengine-Citylatlong":"35.658068,139.751599",
